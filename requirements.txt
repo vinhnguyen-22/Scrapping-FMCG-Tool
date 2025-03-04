@@ -1,0 +1,13 @@
+google_api_python_client
+google_auth_oauthlib
+selenium
+selenium-requests
+webdriver_manager
+sqlalchemy
+sqlalchemy_utils
+beautifulsoup4
+lxml
+numpy
+pandas
+requests
+
